@@ -4,7 +4,7 @@ import (
 	"time"
 
 	log "github.com/sirupsen/logrus"
-	context "golang.org/x/net/context"
+	"golang.org/x/net/context"
 )
 
 /*

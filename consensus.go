@@ -5,9 +5,9 @@ import (
 	"time"
 
 	log "github.com/sirupsen/logrus"
-	grpc "google.golang.org/grpc"
+	"google.golang.org/grpc"
 
-	context "golang.org/x/net/context"
+	"golang.org/x/net/context"
 )
 
 const (
